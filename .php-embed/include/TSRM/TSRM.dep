@@ -1,0 +1,2 @@
+TSRM/TSRM.lo: /tmp/php-8.3.14/TSRM/TSRM.c /tmp/php-8.3.14/TSRM/TSRM.h \
+ /tmp/php-8.3.14/main/php_config.h

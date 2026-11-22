@@ -1,0 +1,8 @@
+ext/pcre/pcre2lib/pcre2_maketables.lo: \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/pcre2_maketables.c \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/config.h \
+ /tmp/php-8.3.14/main/php_compat.h /tmp/php-8.3.14/main/php_config.h \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/pcre2_internal.h \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/pcre2.h \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/pcre2_ucp.h \
+ /tmp/php-8.3.14/ext/pcre/pcre2lib/pcre2_intmodedep.h
