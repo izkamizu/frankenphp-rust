@@ -1,0 +1,6 @@
+Zend/zend_atomic.lo: /tmp/php-8.3.14/Zend/zend_atomic.c \
+ /tmp/php-8.3.14/Zend/zend_atomic.h \
+ /tmp/php-8.3.14/Zend/zend_portability.h Zend/zend_config.h \
+ Zend/../main/php_config.h /tmp/php-8.3.14/Zend/../TSRM/TSRM.h \
+ /tmp/php-8.3.14/main/php_config.h \
+ /tmp/php-8.3.14/Zend/zend_range_check.h /tmp/php-8.3.14/Zend/zend_long.h

@@ -1,0 +1,37 @@
+Zend/zend_compile.lo: /tmp/php-8.3.14/Zend/zend_compile.c \
+ Zend/zend_language_parser.h Zend/zend_compile.h Zend/zend.h \
+ Zend/zend_types.h Zend/zend_portability.h Zend/zend_config.h \
+ Zend/../main/php_config.h Zend/../TSRM/TSRM.h \
+ /tmp/php-8.3.14/main/php_config.h Zend/zend_range_check.h \
+ Zend/zend_long.h Zend/zend_map_ptr.h Zend/zend_errors.h \
+ Zend/zend_alloc.h Zend/zend_alloc_sizes.h Zend/zend_llist.h \
+ Zend/zend_string.h Zend/zend_hash.h Zend/zend_sort.h Zend/zend_ast.h \
+ Zend/zend_gc.h Zend/zend_hrtime.h Zend/zend_variables.h \
+ Zend/zend_iterators.h Zend/zend_stream.h Zend/zend_smart_str_public.h \
+ Zend/zend_smart_string_public.h Zend/zend_signal.h \
+ Zend/zend_max_execution_timer.h Zend/zend_object_handlers.h \
+ Zend/zend_operators.h Zend/zend_strtod.h Zend/zend.h \
+ Zend/zend_multiply.h Zend/zend_globals.h Zend/zend_globals_macros.h \
+ Zend/zend_atomic.h Zend/zend_stack.h Zend/zend_ptr_stack.h \
+ Zend/zend_objects.h Zend/zend_objects_API.h Zend/zend_modules.h \
+ Zend/zend_build.h Zend/zend_float.h Zend/zend_multibyte.h \
+ Zend/zend_arena.h Zend/zend_call_stack.h Zend/zend_vm_opcodes.h \
+ /tmp/php-8.3.14/Zend/zend.h /tmp/php-8.3.14/Zend/zend_attributes.h \
+ /tmp/php-8.3.14/Zend/zend_compile.h \
+ /tmp/php-8.3.14/Zend/zend_constants.h \
+ /tmp/php-8.3.14/Zend/zend_globals.h /tmp/php-8.3.14/Zend/zend_llist.h \
+ /tmp/php-8.3.14/Zend/zend_API.h /tmp/php-8.3.14/Zend/zend_modules.h \
+ /tmp/php-8.3.14/Zend/zend_list.h /tmp/php-8.3.14/Zend/zend_hash.h \
+ /tmp/php-8.3.14/Zend/zend_operators.h \
+ /tmp/php-8.3.14/Zend/zend_variables.h \
+ /tmp/php-8.3.14/Zend/zend_execute.h \
+ /tmp/php-8.3.14/Zend/zend_type_info.h /tmp/php-8.3.14/Zend/zend_types.h \
+ /tmp/php-8.3.14/Zend/zend_exceptions.h \
+ /tmp/php-8.3.14/Zend/zend_interfaces.h \
+ /tmp/php-8.3.14/Zend/zend_virtual_cwd.h /tmp/php-8.3.14/TSRM/TSRM.h \
+ /tmp/php-8.3.14/Zend/zend_multibyte.h \
+ /tmp/php-8.3.14/Zend/zend_language_scanner.h \
+ /tmp/php-8.3.14/Zend/zend_inheritance.h /tmp/php-8.3.14/Zend/zend_vm.h \
+ /tmp/php-8.3.14/Zend/zend_enum.h /tmp/php-8.3.14/Zend/zend_observer.h \
+ /tmp/php-8.3.14/Zend/zend_fibers.h \
+ /tmp/php-8.3.14/Zend/zend_call_stack.h

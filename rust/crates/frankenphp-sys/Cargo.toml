@@ -1,0 +1,12 @@
+[package]
+name = "frankenphp-sys"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Low-level FFI bindings to the PHP embed SAPI (Batch-1 minimal surface)"
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.69"
+cc = "1"

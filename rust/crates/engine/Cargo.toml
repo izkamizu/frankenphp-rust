@@ -1,0 +1,9 @@
+[package]
+name = "frankenphp-engine"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Safe Rust wrapper around the PHP engine (Batch-1 skeleton)"
+
+[dependencies]
+frankenphp-sys = { path = "../frankenphp-sys" }
